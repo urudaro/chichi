@@ -1,11 +1,11 @@
 {
-  "name": "vuepress-theme-ououe-template",
+  "name": "chichirimochi",
   "version": "1.4.1",
-  "description": "A template for vuepress-theme-ououe",
-  "author": "tolking <tolking@gmail.com>",
-  "repository": "https://github.com/tolking/vuepress-theme-ououe-template",
+  "description": "Un sitio diverso",
+  "author": "urudaro <urudaro@gmail.com>",
+  "repository": "https://github.com/urudaro/chichi",
   "bugs": {
-    "url": "https://github.com/tolking/vuepress-theme-ououe-template/issues"
+    "url": "https://github.com/urudaro/chichi/issues"
   },
   "homepage": "https://github.com/tolking/vuepress-theme-ououe-template",
   "doc": "https://ououe.com/lib/vuepress-theme-ououe.html",
@@ -17,8 +17,8 @@
     "ououe"
   ],
   "scripts": {
-    "dev": "vuepress dev blog",
-    "build": "vuepress build blog",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
     "push": "deploy.sh"
   },
   "dependencies": {
