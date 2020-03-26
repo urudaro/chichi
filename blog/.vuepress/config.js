@@ -5,7 +5,7 @@ module.exports = {
   dest: 'blog/.vuepress/dist/',
   theme: 'ououe',
   themeConfig: {
-    cover: '/pueblo.jpg',
+    cover: '/hondonero-panoramica.jpg',
     logo: '/chichi-t-short.png',
     backgroundImage: false,
     nav: [
