@@ -3,9 +3,8 @@ title: Cerro Limón (info)
 image: /desde-el-cielo.jpg
 date: 2014-07-27
 tags:
-  - info
-  - andalucía
-  - cerro limón
+  - Info
+  - Andalucía
 categories:
   - Cerro Limón
 ---

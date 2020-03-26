@@ -9,11 +9,11 @@ module.exports = {
     logo: '/chichi-t-short.png',
     backgroundImage: false,
     nav: [
-      { text: 'Home', link: '/' },
       { text: 'Posts', link: '/posts/' },
-      { text: 'Tags', link: '/tag/' },
-      { text: 'Categories', link: '/category/' },
-      { text: 'About', link: '/about/' }
+      { text: 'Claves', link: '/tag/' },
+      { text: 'Temas', link: '/category/' },
+      { text: 'Cerro Limón', link: '/category/Cerro Limón/' },
+      { text: '¿Qué es ésto?', link: '/about/' }
     ],
     footer: [
       { text: 'Github', link: 'https://github.com/tolking' }

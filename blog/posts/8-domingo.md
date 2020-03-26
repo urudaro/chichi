@@ -3,9 +3,10 @@ title: Domingo
 image: /amigos/domingo-jardin.jpg
 date: 2015-07-27
 tags:
-  - fotos
+  - Fotos
+  - Domingo
 categories:
-  - amigos
+  - Amigos
   - Cerro Limón
 ---
 

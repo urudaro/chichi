@@ -1,12 +1,12 @@
 ---
 title: Vecinos del Cerro Limón
 image: /amigos/vecinos-2.jpg
-date: 2020-03-24
+date: 2019-08-25
 tags:
-  - fotos
+  - Fotos
 categories:
   - Cerro Limón
-  - amigos
+  - Amigos
 ---
 
 ![](/amigos/vecinos-1.jpg)
