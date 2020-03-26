@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Theme',
+  title: 'Chichirimochi',
   description: 'Diversidades',
   base: '/',
   dest: 'blog/.vuepress/dist/',
@@ -9,7 +9,7 @@ module.exports = {
     logo: '/chichi-t-short.png',
     backgroundImage: false,
     nav: [
-      { text: 'Posts', link: '/posts/' },
+      { text: 'Registro', link: '/posts/' },
       { text: 'Claves', link: '/tag/' },
       { text: 'Temas', link: '/category/' },
       { text: 'Cerro Limón', link: '/category/Cerro Limón/' },
@@ -46,5 +46,8 @@ module.exports = {
       before: info => `<div class="danger"><p class="title">${info}</p>`,
       after: '</div>'
     }]
+  ],
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.png' }]
   ]
 }
