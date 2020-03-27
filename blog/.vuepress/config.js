@@ -5,10 +5,11 @@ module.exports = {
   dest: 'blog/.vuepress/dist/',
   theme: 'ououe',
   themeConfig: {
-    cover: '/hondonero-panoramica.jpg',
+    cover: '/hondonero-panoramica-2.jpg',
     logo: '/chichi-t-short.png',
     backgroundImage: false,
     nav: [
+      { text: 'Inicio', link: '/' },
       { text: 'Registro', link: '/posts/' },
       { text: 'Claves', link: '/tag/' },
       { text: 'Temas', link: '/category/' },
