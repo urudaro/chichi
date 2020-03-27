@@ -1,6 +1,6 @@
 ---
 title: En tiempo de dictaduras
-image: /amigos/mezquidas.jpg
+image: /desaparecidos.jpg
 date: 2007-03-19
 tags:
   - Dictaduras

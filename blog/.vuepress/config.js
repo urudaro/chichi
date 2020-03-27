@@ -6,7 +6,7 @@ module.exports = {
   theme: 'ououe',
   themeConfig: {
     cover: '/hondonero-panoramica-2.jpg',
-    logo: '/chichi-t-short.png',
+    logo: '/chichirimochi-banner-stroke.png',
     backgroundImage: false,
     nav: [
       { text: 'Inicio', link: '/' },
