@@ -4,6 +4,7 @@ image: /Julio-cesar-y-26-300x225.jpg
 date: 2011-12-08
 tags:
   - La Mondiola
+  - Montevideo
 categories:
   - Artículos
 ---

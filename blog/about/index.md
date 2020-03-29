@@ -2,7 +2,9 @@
 title: ¿Qué es?
 layout: Page
 ---
-![chichirimochi.com](/chichirimochi-banner-stroke.png)
+<div style="display: flex;justify-content: center;">
+  <img src="/chichirimochi-banner-stroke.png" alt="chichi.com"></img>
+</div>
 
 Chichirimochi es esencialmente un sitio de amigos. En él caben diversos contenidos, principalmente lo que los amigos deseen publicar. Las reglas de este sitio son tan simples como escuetas y se explican por si mismas. En concreto son tres reglas muy concisas:
 
