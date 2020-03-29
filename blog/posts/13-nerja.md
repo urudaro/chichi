@@ -18,7 +18,7 @@ Maro, entonces como ahora, era un pueblecito de la Costa del Sol oriental, minú
 
 ![Maro](/nerja/maro.jpg)
 
-Llegar a Maro fue como encontrar una familia. Mi escuela, la única masculina en aquellos tiempos de segregación sexual, acogía parvulillos y adolescentes en unitaria y desmañada mezcolanza. Mi compañera Manoli (desgraciadamente muerta poco después, cuando la vida empezaba a llenarla de entusiasmos y maravillas) jugaba conmigo a formar un coro infantil con chicos y chicas. La gente venia a vernos, nos invitaba a sus casas y nos contaba su vida a corazón  abierto. Siempre echaré de menos la perpetua sonrisa de Manoli, las tertuñlias con los lugareños y mis solitarios paseos por la carretera de Almería.
+Llegar a Maro fue como encontrar una familia. Mi escuela, la única masculina en aquellos tiempos de segregación sexual, acogía parvulillos y adolescentes en unitaria y desmañada mezcolanza. Mi compañera Manoli (desgraciadamente muerta poco después, cuando la vida empezaba a llenarla de entusiasmos y maravillas) jugaba conmigo a formar un coro infantil con chicos y chicas. La gente venia a vernos, nos invitaba a sus casas y nos contaba su vida a corazón  abierto. Siempre echaré de menos la perpetua sonrisa de Manoli, las tertulias con los lugareños y mis solitarios paseos por la carretera de Almería.
 
 Yo tenía tiempo y ganas para salir de paseo también con mis alumnos por aquellos alrededores donde la naturaleza era agreste y hermosa, no atropellada aún por el turismo. Nos íbamos a la parte montañosa y alta donde, un día cualquiera, me enseñaron la cueva del cementerio, como la llamaban.
 
