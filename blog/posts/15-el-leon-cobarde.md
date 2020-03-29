@@ -15,7 +15,7 @@ sus labios de grana, su cutis de seda<br/>
 
 <!-- more -->
 Hadas y duendes dicen de Blanquita<br/>
-Que es buena, muy dócil, piadosa y bonita.<br/>
+que es buena, muy dócil, piadosa y bonita.<br/>
 ...
 
 <audio controls>

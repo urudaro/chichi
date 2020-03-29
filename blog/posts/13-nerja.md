@@ -1,5 +1,6 @@
 ---
 title: La cueva de Nerja y yo
+display: home
 image: /nerja/carlos-manoli.png
 date: 2015-03-19
 tags:
