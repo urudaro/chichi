@@ -10,11 +10,11 @@ module.exports = {
     backgroundImage: false,
     nav: [
       { text: 'Inicio', link: '/' },
-      { text: 'Registro', link: '/posts/' },
-      { text: 'Claves', link: '/tag/' },
-      { text: 'Temas', link: '/category/' },
+			{text: 'Registro', link: '/posts/'},
+			{text: 'Temas', link: '/category/'},
+			{text: 'Claves', link: '/tag/'},
       { text: 'Cerro Limón', link: '/category/Cerro Limón/' },
-      { text: '¿Qué es ésto?', link: '/about/' }
+      { text: '¿Qué es esto?', link: '/about/'}
     ],
     footer: [
       { text: 'Github', link: 'https://github.com/tolking' }

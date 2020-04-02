@@ -6,6 +6,7 @@ date: 2020-03-29
 tags:
   - Fotos
   - Carlos Saura
+  - Daniel Rodríguez
 categories:
   - Cerro Limón
 ---

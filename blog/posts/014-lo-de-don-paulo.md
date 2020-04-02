@@ -1,5 +1,6 @@
 ---
 title: En lo de Don Paulo
+display: home
 image: /barra/Omar-Lima.jpg
 date: 2015-03-19
 tags:

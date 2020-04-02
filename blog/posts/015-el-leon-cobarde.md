@@ -1,5 +1,6 @@
 ---
 title: El león cobarde. Abu y Natalia.
+display: home
 image: /el-leon-cobarde.jpg
 date: 2020-01-01
 tags:
