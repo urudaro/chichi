@@ -1,7 +1,7 @@
 ---
 title: Qué es Chichirimochi
 display: home
-image: /cerro-limon.jpg
+image: /cerro-limon-s.jpg
 date: 2020-03-29
 tags:
   - Info
