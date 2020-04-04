@@ -10,9 +10,9 @@ module.exports = {
     backgroundImage: false,
     nav: [
       { text: 'Inicio', link: '/' },
-			{text: 'Registro', link: '/posts/'},
+			{text: 'Novedades', link: '/posts/'},
 			{text: 'Temas', link: '/category/'},
-			{text: 'Claves', link: '/tag/'},
+			{text: 'Palabras Claves', link: '/tag/'},
       { text: 'Cerro Limón', link: '/category/Cerro Limón/' },
       { text: '¿Qué es esto?', link: '/about/'}
     ],
