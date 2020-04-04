@@ -2,7 +2,7 @@
 title: Ni reyes ni iglesia
 display: home
 image: /pueblo.jpg
-date: 2020-03-29
+date: 2020-04-04
 tags:
   - Fotos
   - Carlos Saura
