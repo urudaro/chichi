@@ -21,6 +21,12 @@ module.exports = {
     ]
   },
   plugins: [
+    [
+    '@vuepress/google-analytics',
+      {
+        ga: 'UA-7213417-4'
+      }
+    ],
     // permalink for posts
     ['blog-multidir', {
       postsDir: {
