@@ -1,6 +1,6 @@
 ---
 title: Arquistas
-image: /siembra-rebeldia-s.jpg
+image: /siembra.jpg
 date: 2020-04-05
 tags:
   - Carlos Saura
