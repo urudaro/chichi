@@ -8,6 +8,7 @@ categories:
   - Galería
   - Amigos
 ---
+<social-share />
 <div style="display: flex; flex-wrap: wrap;justify-content: center;">
 <div><img src="/images/cafe/aimg0.png" /></div>
 <div><img src="/images/cafe/aimg1.png" /></div>

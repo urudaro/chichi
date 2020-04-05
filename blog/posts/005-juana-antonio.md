@@ -8,5 +8,5 @@ categories:
   - Cerro Limón
   - Amigos
 ---
-
+<social-share />
 ![](/amigos/juana-antonio-1.jpg)

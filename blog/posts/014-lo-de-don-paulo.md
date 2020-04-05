@@ -9,7 +9,7 @@ tags:
 categories:
   - Artículos
 ---
-
+<social-share />
 Esto lo escribo y lo mando como una manera de decir "Felices Fiestas" compartiendo un recuerdo de cuando era niño<!-- more -->, con la esperanza de que nos mantenga el corazón callientito en estos tiempos tan fríos. <br/>
 
 ---

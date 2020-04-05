@@ -9,6 +9,7 @@ tags:
 categories:
   - Artículos
 ---
+<social-share />
 El pastorcillo fue a buscar dos ovejas extraviadas en un bosque a unas dos leguas de la casa. No fue solo, lo acompañaba su leal lobo. Sí, sí ... no has entendido mal. He dicho un lobo.
 <!-- more -->
 

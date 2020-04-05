@@ -8,6 +8,7 @@ tags:
 categories:
   - Artículos
 ---
+<social-share />
 Y fue seguramente el primer viernes de diciembre, cuando algunas empresas suecas invitan a sus empleados a una cena de navidad.<br/><!-- more -->
 Miguel salió del trabajo con el tiempo justo de lavarse y cambiarse de ropa, quería tener una ropa diferente en la cena a la que llevó puesta en la mañana, cuando empezó su
 jornada. <br/>

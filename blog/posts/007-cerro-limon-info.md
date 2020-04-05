@@ -8,7 +8,7 @@ tags:
 categories:
   - Cerro Limón
 ---
-
+<social-share />
 # Cerro Limón
 Diseminado Polígono 41, 150H
 29230 Málaga

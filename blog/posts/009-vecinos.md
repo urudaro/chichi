@@ -8,6 +8,7 @@ categories:
   - Cerro Limón
   - Amigos
 ---
+<social-share />
 ## Reunión de verano
 ![](/amigos/vecinos-1.jpg)
 ![](/amigos/vecinos-2.jpg)

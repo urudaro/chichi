@@ -10,6 +10,7 @@ tags:
 categories:
   - Cerro Limón
 ---
+<social-share />
 Es sabido que los reyes necesitan del pueblo para construir sus castillos y palacios, pues, de los nobles no pueden confiar, ni siquiera saben clavar un clavo.
 
 <!-- more -->

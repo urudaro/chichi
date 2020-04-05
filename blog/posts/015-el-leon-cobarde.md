@@ -9,6 +9,7 @@ tags:
 categories:
   - Audio
 ---
+<social-share />
 En medio del bosque, en una casita<br/>
 sin padre ni madre, vivía Blanquita<br/>
 Rubia como el oro es su cabellera<br/>

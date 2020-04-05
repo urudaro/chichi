@@ -8,6 +8,7 @@ tags:
 categories:
   - Artículos
 ---
+<social-share />
 La Mondiola cumple 100 años y reniega de ser el “Pocitos Nuevo”
 <!-- more -->
 Hoy inauguran un monumento en Julio César y 26 de Marzo que recuerda al barrio obrero de inmigrantes. Los vecinos históricos organizan actividades para rescatar la memoria y la historia del barrio.

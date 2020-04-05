@@ -8,5 +8,5 @@ tags:
 categories:
   - Amigos
 ---
-
+<social-share />
 ![](/amigos/mezquidas.jpg)

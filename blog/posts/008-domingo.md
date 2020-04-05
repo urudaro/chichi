@@ -9,5 +9,5 @@ categories:
   - Amigos
   - Cerro Limón
 ---
-
+<social-share />
 ![](/amigos/domingo-jardin.jpg)

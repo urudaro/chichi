@@ -9,7 +9,7 @@ tags:
 categories:
   - Artículos
 ---
-
+<social-share />
 <a href="http://servicios.diariosur.es/barrios/nerja.htm">Nerja</a>
 
 En 1958 yo era un maestro novato con la cabeza a pájaros y la ilusión rayando en la utopía. Con tan absurdo equipaje cogí en Málaga al autobús <!-- more -->y me fui camino de lo ignoto, que entonces, para mi, se llamaba Maro. Me habían destinado como propietario definitivo, aunque -cosas de la vida- lo decisivo se transformó en transitorio. Solo estuve

@@ -8,4 +8,5 @@ tags:
 categories:
   - Cerro Limón
 ---
+<social-share />
 ![](/las-patronas.jpg)

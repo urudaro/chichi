@@ -8,6 +8,7 @@ tags:
 categories:
   - Artículos
 ---
+<social-share />
 En tiempo de las dictaduras, una noche en Buenos Aires nuestra casa se vio
 asaltada por una banda armada.
 <!-- more -->

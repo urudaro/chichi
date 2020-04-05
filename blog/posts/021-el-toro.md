@@ -10,6 +10,7 @@ categories:
   - Artículos
   - Amigos
 ---
+<social-share />
 Para Enrique Castro
 
 El toro lo tenía mi amigo Enrique decorando el living de su casa<!-- more -->, cuando vivía en Suecia en el municipio de Järfälla, al noroeste de Estocolmo. Lo que más llamaba la atención era su rotundo tamaño demasiado grande para la estantería donde estaba puesto y además, que fuera un toro con joroba. Supe que se trataba de un toro cebú y que la prominente joroba, era una característica de su raza. Mirándolo bien, me pareció que una de sus guampas había sido reparada porque la madera en que estaba tallada era de un color más claro que el resto. También le faltaba parte de su rabo, que se habría quebrado en algún golpe durante su peripecia. Mi amigo me sugirió que yo le reparara la fractura.

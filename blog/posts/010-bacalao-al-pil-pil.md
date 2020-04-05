@@ -7,7 +7,7 @@ tags:
 categories:
   - Recetas
 ---
-
+<social-share />
 Para 4 personas:<br/>
 4 tajadas de [bacalao](http://es.wikipedia.org/wiki/Gadus_morhua)<br/>
 5 dientes de ajo<br/>

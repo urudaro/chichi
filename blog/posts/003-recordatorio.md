@@ -8,6 +8,7 @@ tags:
 categories:
   - Artículos
 ---
+<social-share />
 ### Ayer, 20 de mayo, tuvo lugar un acto recordatorio por los desaparecidos en el monumento "La Mano" en Estocolmo.
 <!-- more -->
 A continuación paso a reproducir el texto que se leyó allí:

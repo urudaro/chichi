@@ -8,7 +8,7 @@ tags:
 categories:
   - Artículos
 ---
-
+<social-share />
 (Los amigos músicos)<br/>
 A Berto lo conocí una tarde de  lluvia en la Escuela de Música. Me gustó de inmediato su manera  de ser franca y abierta. Gallego de nacimiento, conservaba su simpático acento por convicción.<!-- more --> Integraba un grupo de amigos estudiantes del que pronto entré a formar parte.  Era la década del 50 cerca del final….
 <!-- more -->

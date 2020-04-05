@@ -10,5 +10,5 @@ categories:
   - Amigos
   - Cerro Limón
 ---
-
+<social-share />
 ![](/amigos/carlos-domingo-1.jpg)

@@ -9,7 +9,7 @@ tags:
 categories:
   - Artículos
 ---
-
+<social-share />
 *Alan Turing y Glenn Greenwald, cada uno a su manera, se han opuesto al fascismo en diversas épocas de la historia reciente. He aquí una mirada que los emparenta a varios niveles, también apelando a la sátira.*
 <!-- more -->
 ---

@@ -14,7 +14,7 @@ Chichirimochi es esencialmente un sitio de amigos. En él caben diversos conteni
 
 Como ven, las reglas som muy sencillas y no es necesario argumentar mucho para fundamentarlas. Cada uno de ustedes puede ir reflexionando cuales son los antónimos de ésas características. Y si quiere escribir un artículo filosofando sobre ese asunto, bienvenido sea.
 
-Así, amigos, manden material a chichirimochi.com. Siempre manden material en forma de un texto y por lo menos una foto que lo ilustre. Preferentemente mándenlo al correo electrónico:&nbsp; &nbsp; &nbsp;![e-mail](/urudaro-at-gmail-com.png). Pueden también enviar por WhatApp. Si no tienen mi teléfono, mándenme un email y se los doy.
+Así, amigos, manden material a chichirimochi.com. Siempre manden material en forma de un texto y por lo menos una foto que lo ilustre. Preferentemente mándenlo al correo electrónico:&nbsp; &nbsp; &nbsp;![e-mail](/urudaro-at-gmail-com.png). Pueden también enviar por WhatsApp. Si no tienen mi teléfono, mándenme un email y se los doy.
 
 Cualquier otra opinión, corrección o idea sobre el sitio y su composición será bien recibida por ése mismo medio.
 
