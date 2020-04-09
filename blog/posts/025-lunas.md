@@ -17,20 +17,10 @@ Colaboración espontánea, fruto del confinamiento autoinpuesto.
 </audio>
 
 <style>
-/*
-* {
-  box-sizing: border-box;
-}
-*/
-/*body {
-  background-color: #f1f1f1;
-  padding: 20px;
-  font-family: Arial;
-}*/
-
 
 .row {
   margin: 8px -16px;
+  box-sizing: border-box;
 }
 
 /* Add padding BETWEEN each column */
@@ -42,8 +32,8 @@ Colaboración espontánea, fruto del confinamiento autoinpuesto.
 /* Create four equal columns that floats next to each other */
 .column {
   float: left;
-  width: 30%;
-  /*box-sizing: border-box;*/
+  width: 33.33%;
+  box-sizing: border-box;
 }
 
 /* Clear floats after rows */
@@ -57,8 +47,8 @@ Colaboración espontánea, fruto del confinamiento autoinpuesto.
 .content {
   background-color: white;
   padding: 5px;
+  box-sizing: border-box;
 }
-
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
@@ -87,6 +77,7 @@ Colaboración espontánea, fruto del confinamiento autoinpuesto.
        <p>Omar: Será que hay tantas lunas como gente que las mira?</p>
      </div>
    </div>
+
    <div class="column">
      <div class="content">
        <img src="/images/lunas/Alicia-1.jpg" alt="Alicia" style="width:100%">
@@ -94,6 +85,7 @@ Colaboración espontánea, fruto del confinamiento autoinpuesto.
        <p>Con mi celular desde mi ventana. Yo creo que hay una y muchas.</p>
      </div>
    </div>
+
    <div class="column">
      <div class="content">
        <img src="/images/lunas/antonio.jpg" alt="Antonio" style="width:100%">
@@ -101,6 +93,7 @@ Colaboración espontánea, fruto del confinamiento autoinpuesto.
        <p> Luna llena entre los chopos, nace de los cerros. </p>
      </div>
    </div>
+
    <div class="column">
      <div class="content">
        <img src="/images/lunas/caro.jpg" alt="Caro" style="width:100%">
@@ -114,18 +107,21 @@ Colaboración espontánea, fruto del confinamiento autoinpuesto.
       <h3>Sångvägen (Ignacio)</h3>
     </div>
    </div>
+
    <div class="column">
     <div class="content">
       <img src="/images/lunas/almogia.jpg" alt="Almogía" style="width:100%">
       <h3>Almogía en Verdiales. Málaga (Daniel)</h3>
     </div>
    </div>
+
    <div class="column">
     <div class="content">
      <img src="/images/lunas/sole.jpg" alt="Cúneo" style="width:100%">
      <h3>Barcelona (Soledad)</h3>
     </div>
    </div>
+
    <div class="column">
    <div class="content">
      <img src="/images/lunas/cuneo.jpg" alt="Cúneo" style="width:100%">
