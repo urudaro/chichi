@@ -42,8 +42,8 @@ Colaboración espontánea, fruto del confinamiento autoinpuesto.
 /* Create four equal columns that floats next to each other */
 .column {
   float: left;
-  width: 33.33%;
-  box-sizing: border-box;
+  width: 30%;
+  /*box-sizing: border-box;*/
 }
 
 /* Clear floats after rows */
@@ -59,12 +59,6 @@ Colaboración espontánea, fruto del confinamiento autoinpuesto.
   padding: 5px;
 }
 
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 900px) {
-  .column {
-    width: 50%;
-  }
-}
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
