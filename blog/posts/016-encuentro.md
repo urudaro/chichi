@@ -102,7 +102,7 @@ había recibido un premio otorgado por la magia de la casualidad. <br/>
 Y así fue que Miguel cambió las delicias de una cena navideña, por la frugalidad contundente de un de un kebab en compañía de Laura. <br/>
 El sabor intenso del kebab les dio sed, Miguel propuso una cerveza el un lugar cercano y Laura aceptó con la salvedad de que solo fuese una, porque tenía algo que hacer
 temprano a la mañana siguiente.<br/>
-La cerveza les estimuló a comunicarse mas aún y así siguieron hablando, de muchas cosas, de ballenatos y Carlos Vives, de candombes y Ruben Rada, de Benedetti, de García
+La cerveza les estimuló a comunicarse mas aún y así siguieron hablando, de muchas cosas, de vallenatos y Carlos Vives, de candombes y Ruben Rada, de Benedetti, de García
 Marquez.<br/>
 Solo algunas veces Miguel se sintió incomodo, fue cuando Laura mencionó lo de su mamá enferma, el problema de su espalda y otras cosas que el ya conocía de la conversación por
 celular que el había escuchado en el tren.<br/>
