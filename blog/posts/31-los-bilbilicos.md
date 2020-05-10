@@ -18,7 +18,7 @@ categories:
 
 
 <style>
-.row {
+.row-1 {
   box-sizing: border-box;
   display: -ms-flexbox; /* IE 10 */
   display: flex;
@@ -28,41 +28,23 @@ categories:
 }
 
 /* Create two equal columns that sits next to each other */
-.column {
+.column-1 {
   box-sizing: border-box;
   -ms-flex: 30%; /* IE 10 */
   flex: 30%;
   padding: 0 4px;
 }
 
-.column img {
+.column-1 img {
   margin-top: 8px;
   vertical-align: middle;
 }
 
-/* Style the buttons */
-.btn {
-  border: none;
-  outline: none;
-  padding: 10px 16px;
-  background-color: #f1f1f1;
-  cursor: pointer;
-  font-size: 18px;
-}
-
-.btn:hover {
-  background-color: #ddd;
-}
-
-.btn.active {
-  background-color: #666;
-  color: white;
-}
 </style>
 
   <!-- Photo Grid -->
-  <div class="row">
-    <div class="column">
+  <div class="row-1">
+    <div class="column-1">
       <div>
       <p>Los ruiseñores cantan</p>
       <p>en el àrbol con  flor</p>
@@ -85,7 +67,7 @@ categories:
       <p>mitiga mi dolor....</p>
       </div>
     </div>
-    <div class="column">
+    <div class="column-1">
       <img src="/images/los-bilbilicos.jpg" style="width:100%">
     </div>  
   </div>
