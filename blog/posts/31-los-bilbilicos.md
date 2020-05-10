@@ -12,10 +12,10 @@ categories:
 <br>
 ### Escuchen ...
 <audio controls>
-  <source src="/audio/02 - Los bilbilicos Sefaradí" type="audio/mpeg">
+  <source src="/audio/02-los-bilbilicos.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-<social-share />
+
 
 <style>
 .row {
@@ -93,3 +93,4 @@ categories:
 
   La foto la tomò mi hermano menor, Coco en el Parque Rodò, en ese momento tenìa diez años y yo quince.
   Mi hermana Gladys, artista plàstica, la reelaborò hace un tiempo y le agregò los pajaritos.
+  <social-share />

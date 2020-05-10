@@ -29,6 +29,7 @@ Y ... entonces entendí por que no quieren ni acordarse de Patxi.
   <source src="/audio/Los decorados.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+
 <br/>
 ... y odio a los que regalan palabras como si fueran flores<br/>
 ... y los siento prendidos en mi carne<br/>
@@ -51,3 +52,4 @@ no son más que decorados,<br/>
 no son más que decorados.”<br/>
 <br/>
 Los Decorados (Patxi Andión)<br/>
+<social-share />
