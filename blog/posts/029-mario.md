@@ -12,17 +12,17 @@ categories:
 <social-share />
 
 Esto se lo escribí a mi hermano, cuando supe que Mario había muerto en Montevideo.<!-- more --><br/>
-Están por hacer 14 años de aquel día triste, y por eso mando este relato, como homenaje a el y como saludo a todos los lo sentimos cerca.
+Están por hacer 14 años de aquel día triste, y por eso mando este relato, como homenaje a él y como saludo a todos los lo sentimos cerca.
 
 Era médico y tenía como 65 años.
-Se llamaba Mario Dufort y lo nombrábamos el Muerto, porque de verdad lo estuvo cuando le dio el primer infarto como a los 25, ahí en Uruguay.
+Se llamaba Mario Dufort y lo nombrábamos el Muerto porque, de verdad, lo estuvo cuando le dió el primer infarto como a los 25, ahí en Uruguay.
 Zafó de ese, y antes de llegar a Suecia, de alguno otro más.
 
 Una vez aquí, lo acomodaron con remedios y aparatos que muchas veces le molestaron, había uno que cuando se le estaban por terminar las pilas le daba choques eléctricos, a ese
-le tenía bronca, creo que se llama desfibrador, a veces puede causar el efecto de una picana.
+le tenía bronca, creo que se llama desfibrilador, a veces puede causar el efecto de una picana.
 
-También pasaba que algún remedio, hacía que el marcapasos no funcionara como debía, y el Muerto quedaba de cama.
-Tocaba el piano y la guitarra, sabía cantar un montón de temas, sacaba la música de cualquier cosa y fue el único que supo decirme como encontrar en Internet, el tema "Iracema"
+También pasaba que algún remedio hacía que el marcapasos no funcionara como debía y el Muerto quedaba de cama.
+Tocaba el piano y la guitarra, sabía cantar un montón de temas, sacaba la música de cualquier cosa y fue el único que supo decirme como encontrar en Internet el tema "Iracema"
 por Los Demonios da Garoa.
 Después de eso, alguna noche de insomnio, lo encontré en la música por los caminos del "Napster".
 
@@ -31,7 +31,7 @@ cálculos biliares con alcaucil, o como alimentarte después de la operación de
 
 Tenía aún cosas de chiquilín, como por ejemplo, el berretín de tener un barco que nunca pudo navegar, también, de joder a medio mundo, para que lo ayudasen a sacar el barco del
 agua en otoño y echarlo al agua en primavera.
-Pero quien se iba a negar a darle una mano al muerto.
+Pero quien se iba a negar a darle una mano al Muerto.
 
 Últimamente andaba jodido, por el café de los sábados apenas venía, siempre en su casa frente a la pantalla de la computadora, rastreando cosas de allá de Uruguay, siempre
 queriendo saber más. Una de las últimas veces en el café, poco antes del viaje, quiso que se hablara del tema de las papeleras, se ve que el tema le importaba pero nadie le dio
