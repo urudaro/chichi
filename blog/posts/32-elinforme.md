@@ -31,7 +31,7 @@ Daniel Rodríguez Larreta
 }
 </style>
 
-<img class="wright" src="/images/elinforme/elinforme-orletti.jpg" width="100%">
+<img src="/images/elinforme/elinforme-orletti.jpg" width="100%">
 <div><em><strong>1</strong></em> - En esa fecha fui informado por nuera, Raquel Nogueira Paullier de la desaparici&oacute;n de mi hijo, Enrique Rodr&iacute;guez Larreta Mart&iacute;nez, uruguayo, casado de 26 a&ntilde;os de edad, de profesi&oacute;n periodista, con residencia legal en la Rep&uacute;blica Argentina desde el a&ntilde;o 1973.</div>
 <hr />
 <div><em><strong>2</strong></em> - Mi hijo hab&iacute;a sido dirigente estudiantil en el Uruguay. En el a&ntilde;o 1972 el Ej&eacute;rcito lo detuvo y lo mantuvo incomunicado durante 9 meses, someti&eacute;ndolo a interrogatorios y torturas que fueron denunciadas en el Parlamento, que en aquel entonces a&uacute;n funcionaba en el Uruguay. Finalmente, el proceso que se intentaba fraguar, contra &eacute;l fue clausurado por falta de pruebas y mi hijo viaj&oacute; con su familia a Buenos Aires , donde trabajaba en el peri&oacute;dico &quot;El Cronista Comercial&quot;</div>
